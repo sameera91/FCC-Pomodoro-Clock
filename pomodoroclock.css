@@ -1,0 +1,22 @@
+#clock{
+     margin-top: 50px;
+    }
+    
+    #time{
+      margin-top: 80px;
+      font-size: 50px;
+      border: 1px solid;
+      border-radius: 50%;
+      width: 200px;
+      height: 200px;
+    }
+    
+    #plus, #minus{
+        display: inline;
+        font-size: 25px;
+        cursor: pointer;
+    }
+    
+    #length{
+      font-size: 30px;
+    }
